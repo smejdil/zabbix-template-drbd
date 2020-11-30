@@ -3,8 +3,8 @@ DRBD Resources monitoring template for Zabbix
 
 Using _drbdadm_ tool for monitoring of DRBD Resources
 
-Tested on Zabbix Version 3.0
-Tested on DRBD 8.3.x
+Tested on Zabbix Version 4.0
+Tested on DRBD 9.x
 
 FEATURES
 --------
@@ -14,7 +14,7 @@ FEATURES
 
 REQUIREMENTS
 ------------
-* Zabbix server version 3.0
+* Zabbix server version 4.0
 * drbdadm tool
 
 INSTALLATION
